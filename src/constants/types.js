@@ -1,0 +1,3 @@
+export const ADD_PRESSURE = 'ADD_PRESSURE';
+export const ADD_TEMPERATURE = 'ADD_TEMPERATURE';
+export const ADD_AMOUNT = 'ADD_AMOUNT';
